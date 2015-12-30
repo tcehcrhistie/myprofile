@@ -55,7 +55,7 @@
             <p>My favourite book</p>
             <img id="bk" src="http://static1.squarespace.com/static/5019e5e1e4b06e3a57e30958/t/535a6493e4b090d1c9b5ed72/1398432915527/"/>
             <li>Surfing the Internet</li>
-            <a href="www.appappapps.com">My favourite website</a>
+            <a href="http://www.appappapps.com">My favourite website</a>
         </ul>
     </div>
 </body>
